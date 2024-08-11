@@ -1,4 +1,4 @@
-package com.aks.programmers.level1.코딩테스트연습.연습문제;
+package com.aks.programmers.level1;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,5 @@
-package com.aks.programmers.level2.코딩테스트연습.연습문제;
+package com.aks.programmers.level2;
 
-import com.aks.programmers.level1.코딩테스트연습.연습문제.추억점수;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
