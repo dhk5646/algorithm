@@ -10,7 +10,7 @@ public class 귤_고르기_테스트 {
     @Test
     public void testCase1() {
         // given
-        int k = 3;
+        int k = 6;
         int[] tangerine = {1, 3, 2, 5, 4, 5, 2, 3};
 
         // when
@@ -28,7 +28,7 @@ public class 귤_고르기_테스트 {
         int[] tangerine = {1, 3, 2, 5, 4, 5, 2, 3};
 
         // when
-        int expected = 4;
+        int expected = 2;
         int actual = instance.solution(k, tangerine);
 
         // then
